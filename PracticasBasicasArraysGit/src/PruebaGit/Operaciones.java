@@ -32,9 +32,6 @@ public class Operaciones {
 		return OperadorA - OperadorB;
 	}
 	
-	public int Division() {
-		return OperadorA / OperadorB;
-	}
 
 	
 
