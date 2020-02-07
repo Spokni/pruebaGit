@@ -24,7 +24,13 @@ public class Operaciones {
 		OperadorB = operadorB;
 	}
 	
+	public int Suma() {
+		return OperadorA + OperadorB;
+	}
 	
+	public int Resta() {
+		return OperadorA - OperadorB;
+	}
 	
 
 }
