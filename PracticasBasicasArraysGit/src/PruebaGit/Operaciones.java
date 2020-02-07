@@ -39,6 +39,10 @@ public class Operaciones {
 	public int Division2() {
 		return OperadorB / OperadorA;
 	}
+	
+	public int Division3() {
+		return OperadorB / OperadorA;
+	}
 
 	
 
